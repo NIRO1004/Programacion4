@@ -1,5 +1,5 @@
 # Programacion4
-# Ejercicios vistos en el curso de programación de sistemas computacionales
+# Ejercicios vistos en el curso de programación IV
 Contiene los distintos ejemplos vistos en clase, así como la resolución de los laboratorios ordenados por clase.
 
 ##  ¿Cómo descargar los ejercicios?
