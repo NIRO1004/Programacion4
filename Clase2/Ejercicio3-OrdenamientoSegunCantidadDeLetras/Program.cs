@@ -17,7 +17,6 @@
             }
 
 
-
             //En caso de querer ordenar por orden de mas letras a menos o descendente invertimos las variables nombre1 y nombre 2 en la comparacion
             //Ejemplo :
             Console.WriteLine();
