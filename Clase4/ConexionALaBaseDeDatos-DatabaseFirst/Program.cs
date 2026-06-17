@@ -8,9 +8,8 @@ namespace ConexionALaBaseDeDatos
     {
         static void Main(string[] args)
         {
-            Console.Read();
             PrimeraConexion.Ejecutar();
-            Console.Read();
+
         }
     }
 }
