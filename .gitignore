@@ -58,3 +58,4 @@ nunit-*.xml
 .vs
 /Clase4/ConexionALaBaseDeDatos-DatabaseFirst/.vs
 /Clase4/ConexionALaBaseDeDatos-DatabaseFirst/.vs
+/Clase6/EjerciciosLINQ/appsettings.Development.json
